@@ -78,4 +78,4 @@ Main game loop that handles the user deposit, betting, spinning the reels, calcu
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at mohammedmutasim13@gmail.com.
+If you have any questions or suggestions, feel free to contact me at mohammedmutasim1999@gmail.com.
